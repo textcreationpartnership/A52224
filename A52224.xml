@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>News from the press: or, The black devil conjured Being a satyr against scribling. With allowance.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52224</idno><idno type="EEBO-CITATION">99829484</idno>
+  <idno type="VID">33924</idno>
+  <idno type="EEBO-PROQUEST">2240863792</idno>
+  
+            <idno type="STC">Wing N1013</idno>
+            <idno type="STC">ESTC R217841</idno>
+            <idno type="PROQUEST">99829484</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99829484e"/>
+            <note>(EEBO-TCP ; phase 2, no. A52224)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33924)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1995:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>News from the press: or, The black devil conjured Being a satyr against scribling. With allowance.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Caption title on p. 3 reads: Papers complaint: or, A satyr against scribling.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Printing --  England --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33924:1"/>
+            <p>NEWS from the PRESS: OR, THE BLACK DEVIL CONJURED.</p>
+            <p>BEING A SATYR Against SCRIBLING.</p>
+            <q>
+               <p>Scripturiendi Pruritus Scabies Seculi:</p>
+               <lg>
+                  <l>—Those who write, because all write have still,</l>
+                  <l>The same plea for writing, and for writing ill.</l>
+               </lg>
+               <bibl>Doctor Donn.</bibl>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>With Allowance.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Printed in the Year, 1673.</p>
+            <pb facs="tcp:33924:2"/>
+            <pb facs="tcp:33924:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:33924:3"/>
+            <pb n="3" facs="tcp:33924:3"/>
+            <head>Papers Complaint: OR, A SATYR Against SCRIBLING.</head>
+            <q>Scripturiendi Pruritus Scabies Seculi.</q>
+            <lg>
+               <l>PAtience be gone, what Stoick can refrain,</l>
+               <l>From Transport of a generous disdain?</l>
+               <l>When Segniour Sap, and whifling Spruce Invade</l>
+               <l>The Press, and Scribling is become a Trade.</l>
+               <l>By which each self-conceited Fop essays</l>
+               <l>To Perriwig his empty skul with Ba<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s;</l>
+               <lg>
+                  <l>Wits, Half-wits, no-wits, Learn'd, Unlearn'd in spight</l>
+                  <l>Of Art and Nature, all presume to Write,</l>
+                  <l>From the brave <hi>Laureat,</hi> to the chaunting <hi>VVhite,</hi>
+                  </l>
+               </lg>
+               <l>It takes us, for our lives we can't refrain,</l>
+               <l>So general's the looseness in the Brain:</l>
+               <l>Remarques, Animadversions, Songs, Essays,</l>
+               <l>Lampoons, Reflections, Farces, dam'd dull Plays;</l>
+               <pb n="4" facs="tcp:33924:4"/>
+               <l>Long-winded Letters, Answers, and Replies,</l>
+               <l>With endless, well as senceless Drolleries,</l>
+               <l>So fast and thick on every Stall are spread,</l>
+               <l>We may esteem them happy, cannot Read.</l>
+            </lg>
+            <lg>
+               <l>One Writes for Fame, and thinks the Devils in't,</l>
+               <l>If he Commence not Wit, that's Fool in Print,</l>
+               <l>Command of <hi>Miss</hi> draws in another throng,</l>
+               <l>
+                  <hi>Phillis</hi> and <hi>Cloris</hi> thus came first in Song:</l>
+               <l>Some with old wonders bubble the fond Town,</l>
+               <l>Brib'd with vast hopes of promised Half-crown;</l>
+               <l>Or take news for their Hackney-muses Theam,</l>
+               <l>And vent lyes fast as Gazet of <hi>Harleem:</hi>
+               </l>
+               <l>Oh! for a lumping Sessions now they cry,</l>
+               <l>Condemn's fine Princess or <hi>Duval</hi> to dye;</l>
+               <l>Who after they have paid the Hang-mans Fees,</l>
+               <l>Must suffer far more cruelty by these:</l>
+               <l>From Collar-band to flaunting Pantaloons,</l>
+               <l>We List our selves Parnassian Dragoons:</l>
+               <l>This <hi>Bob</hi> foresaw, and being quite pamp'd dry,</l>
+               <l>Huddles himself in blind obscurity,</l>
+               <l>Where over nappy Ale he chews the Cud,</l>
+               <l>On Jests that in King <hi>James</hi>'s days were good:</l>
+               <l>Since him, some stories sprung up, who (might it be)</l>
+               <l>Write even more Impertinently than he:</l>
+               <l>Red-Lattice Scriblers, whose dul Rhymes do flow,</l>
+               <l>Just as the inspiring tap runs, high or low:</l>
+               <l>Peace croaking Smith-field, spawn no more, have done,</l>
+               <l>Your tatter'd vermin, Frogs of <hi>Hellicon!</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But why, Green-sickness muse I feed'st thou on Trash,</l>
+               <l>More fit for Beadles then a Satyrs lash!</l>
+               <l>Unbend a while, and scorning Gawdy bribe,</l>
+               <l>Unmask the follies of a Silken Tr<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>be:</l>
+               <l>That learned rabble, whose humour outdoes</l>
+               <l>The <hi>Burghers</hi> nonsence, and the clouted shooes,</l>
+               <pb n="5" facs="tcp:33924:4"/>
+               <l>Who manage their Polemicks at such ra<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</l>
+               <l>Each Author seems Commenc'd at <hi>Billinsgate;</hi>
+               </l>
+               <l>Our Mountain Wits, big of a Mouse lye in,</l>
+               <l>And for a Birth produce a souter kin:</l>
+               <l>As quarelsome Divines so long Dispute,</l>
+               <l>Dark Texts, and one another still Confute.</l>
+               <l>Till greener Heads viewing each sides defeat,</l>
+               <l>Rashly conclude their whole Doctrine a Cheat;</l>
+               <l>So through the Factions of a Numerous Crew,</l>
+               <l>(Who Laugh at all that's old, and Dam what's new)</l>
+               <l>About this Wit such dreadful Wars befall,</l>
+               <l>That wiser men suspect, they'he none at all,</l>
+               <l>Or that 'tis grown the Philosophers stone,</l>
+               <l>Which all pretend, yet is preduc'd by none.</l>
+               <l>Cats, Rats, and Savage Stags once in a Trice,</l>
+               <l>Turn'd as great Hec's, as <hi>Homers</hi> Frogs and Mice;</l>
+               <l>A furious Contest for a while grew hot,</l>
+               <l>Betwixt the Urinal and Gally-pot:</l>
+               <l>And made some luckless Reams by that abuse,</l>
+               <l>Fit only for their purging patients use:</l>
+               <l>The Brave Society soon after felt,</l>
+               <l>And stood the Shock of a more furious pelt,</l>
+               <l>The politicks came next into dispute,</l>
+               <l>And Drollery had struck poor <hi>Jo.</hi> mute.</l>
+               <l>But that a brisk second stept in, and then,</l>
+               <l>
+                  <hi>Pelmel</hi> they carry on the work agen;</l>
+               <l>Contempt of Clergy made a noble Rumble,</l>
+               <l>But to please Countrey Parson that did grumble.</l>
+               <l>He shifts the Scene, since each Collar's his Man,</l>
+               <l>Hey for our Town! Have at <hi>Leviathan,</hi>
+               </l>
+               <l>The Rota to no purpose Venome Spit,</l>
+               <l>For that was Answer'd long before 'twas writ.</l>
+            </lg>
+            <lg>
+               <l>By Scatter'd Penny-books, some Scriblers try,</l>
+               <l>How Souls will Thrive on minc'd Divinity,</l>
+               <pb n="6" facs="tcp:33924:5"/>
+               <l>Some Hail-shot pamphlets pilfer'd from the store,</l>
+               <l>Of those brave Souls that Duel'd <hi>Rome</hi> before</l>
+               <l>Squirt forth against the Pope whilst others play,</l>
+               <l>The folly dwells in a Transprosing way:</l>
+               <l>Most weed old Authors from whose shreds they bring,</l>
+               <l>Like Taylors Cushion some fine pre-bald thing</l>
+               <l>So the Jay struts it in her borrowed plumes,</l>
+               <l>So Bankrupts swagger, with entrusted Sums;</l>
+               <l>If any in our low degenerate age,</l>
+               <l>With Sock or Buskin Court the thriveing Stage;</l>
+               <l>Our Natural Follies higher to advance,</l>
+               <l>Five acts are stuft with Rudeness Song and Dance.</l>
+               <l>Unhappy times! when what should Physick be,</l>
+               <l>Turns Poyson and augments the Melady:</l>
+               <l>As Condemn'd Prisoner at the Bar half dead,</l>
+               <l>Himself promps one stands next and cannot read,</l>
+               <l>And thereby saves his life, so these do give,</l>
+               <l>(Though starve themselves) others means how to live,</l>
+               <l>And Booksellers grown rich, can proudly ride,</l>
+               <l>Whilst their poor Authors Lacquey by their side,</l>
+               <l>The lazy Belly its State to Maintain,</l>
+               <l>Imposes Contributions on the Brain.</l>
+               <l>When Colon Croaks, 'tis time to take the Pen,</l>
+               <l>Your pardon Sirs! Subjects are plenty then:</l>
+               <l>If Game-cock beat, or Madams Parrat dye,</l>
+               <l>There's one Panegyrick, and one Elegy.</l>
+            </lg>
+            <lg>
+               <l>Mean while poor paper tu<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns more pale to see.</l>
+               <l>Her self thus Tortur'd by their Cruelty;</l>
+               <l>Must I she crys have my Innocent Dress,</l>
+               <l>Thus Blur'd and sullied by the fluxing Press,</l>
+               <l>The Press, vile Engine! which more hurt hath done,</l>
+               <l>Than Hells invention of the murthering Gun:</l>
+               <l>Shall every wanton witty Fop one meets</l>
+               <l>Soil with his Surqued<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ies my chaster sheets?</l>
+               <pb n="7" facs="tcp:33924:5"/>
+               <l>Better those wrags to which my birth I ow'd,</l>
+               <l>Had been before in Surgeons Lint bestow'd;</l>
+               <l>Better should long short-handed Sermons fill,</l>
+               <l>My strutting leaves scrawl'd out by greasie will,</l>
+               <l>Or petty Foggers Green-bag Jayl me close,</l>
+               <l>With Lattin that's enough for purging Dose:</l>
+               <l>To light Tobacco, ensh<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ine Soap, or wrap</l>
+               <l>Up nasty stinking Bolus for a clap.</l>
+            </lg>
+            <lg>
+               <l>Be't what it will I suffer, the sin's less,</l>
+               <l>Than for to be the prostitute o'th Press.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
